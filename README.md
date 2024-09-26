@@ -24,4 +24,6 @@ You can click the Preview link to take a look at your changes.
 <!-- (11. git branch) -->
 <!-- (12. git branch -M "change name") -->
 <!-- (13. git puch -u origin main) -->
-<!-- (14. ) -->
+<!-- (14. git cheackout -b "name") -->
+<!-- (15. git cheackout "name") -->
+<!-- (16. git branch -d "name") -->
